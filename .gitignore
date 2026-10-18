@@ -1,0 +1,18 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+.env
+.venv/
+__pycache__/
+*.pyc
+data/*.json
+outputs/*.md
+!data/sample_records.json
+!outputs/health_report.md
