@@ -24,3 +24,4 @@ data/knowledge/rag_index.json
 outputs/
 .pytest_cache/
 .pytest_cache/
+.backup/
