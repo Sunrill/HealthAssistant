@@ -84,8 +84,8 @@ wsl --install -d Ubuntu-24.04
 
 ```bash
 cd ~
-git clone https://github.com/shoxar/HealthAssistant.git
-cd shoxar-HealthAssistant
+git clone https://github.com/Sunrill/HealthAssistant.git
+cd HealthAssistant
 ```
 
 没有 git 的话先装：`sudo apt install -y git`。
@@ -441,7 +441,7 @@ report
 看不懂代码也没关系，这一节告诉你"想改哪里该去哪个文件"。
 
 ```
-shoxar-HealthAssistant/
+HealthAssistant/
 ├── main.py                  ← 程序入口，负责跟你对话
 ├── src/
 │   ├── agent.py             ← 告诉 AI"你是谁、能做什么、什么不能说"
