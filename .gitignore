@@ -16,3 +16,11 @@ data/*.json
 outputs/*.md
 !data/sample_records.json
 !outputs/health_report.md
+data/reports/
+data/lab/
+data/members/
+data/members.json
+data/knowledge/rag_index.json
+outputs/
+.pytest_cache/
+.pytest_cache/
